@@ -1,3 +1,14 @@
+body {
+	display: flex;
+	justify-content: center;
+	background-color: black;
+	font-size: medium;
+}
+
+h1 {
+	color: red ;
+}
+
 .values {
 	width: 100px;
 	margin-right: 4px;
@@ -55,6 +66,7 @@ h4 {
 	padding-bottom: 35px;
 	position: absolute;
 	top: 18%;
+	border-radius: 20px;
 	background-image: url(./Couldn\'t\ find\ a\ decent\ Red\ Camouflage\ wallpaper\ so\ i\ made\ one\ instead\ [1920x1080].jpg);
     background-size: contain;
 }
